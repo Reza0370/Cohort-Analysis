@@ -21,3 +21,5 @@ This project performs a cohort analysis on user subscriptions to a website over 
 - BigQuery (SQL) 
 
 - Excel for Analysis and Visualization
+
+ -You can find Query and Result in the file.

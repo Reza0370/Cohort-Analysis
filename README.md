@@ -1,23 +1,23 @@
-Cohort Analysis of Website Subscription
+**Cohort Analysis of Website Subscription**
 
 This project performs a cohort analysis on user subscriptions to a website over a period of six weeks. The analysis helps to understand user retention, behavior patterns, and subscription trends over time.
 
-Features
+## Features
 
-Tracks user subscriptions and retention week by week
+- Tracks user subscriptions and retention week by week
 
-Visualizes cohorts to identify trends in user engagement
+- Visualizes cohorts to identify trends in user engagement
 
-Provides insights for improving user retention strategies
+- Provides insights for improving user retention strategies
 
-Data
+## Data
 
-The dataset contains subscription records over six weeks
+- The dataset contains subscription records over six weeks
 
-Includes information such as user ID, subscription date, and number of subscriptions
+- Includes information such as user ID, subscription date, and number of subscriptions
 
-Technologies Used
+## Technologies Used
 
-BigQuery (SQL) 
+- BigQuery (SQL) 
 
-Excel for Analysis and Visualization
+- Excel for Analysis and Visualization

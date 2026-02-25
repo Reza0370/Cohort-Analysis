@@ -1,4 +1,4 @@
-**Cohort Analysis of Website Subscription**
+# **Cohort Analysis of Website Subscription**
 
 This project performs a cohort analysis on user subscriptions to a website over a period of six weeks. The analysis helps to understand user retention, behavior patterns, and subscription trends over time.
 
